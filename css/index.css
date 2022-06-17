@@ -1,0 +1,66 @@
+.programa{
+    /*background-color: red;*/
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    left: 400px;
+    top: 30px;
+    border: solid;
+    border-color: black;
+}
+
+.programa_cj-titulo{
+    /*background-color: blue;*/
+    width: 300px;
+    height: 70px;
+    position: absolute;
+    left: 95px;
+    top: 130px;
+    border: solid;
+    border-color: black;
+}
+
+.programas_bt{
+    background-color: green;
+    width: 120px;
+    height: 70px;
+    position: absolute;
+    left: 280px;
+    top: 270px;
+    border: solid;
+    border-color: black;
+}
+
+.programas_btDos{
+    background-color: blue;
+    width: 120px;
+    height: 70px;
+    position: absolute;
+    left: 90px;
+    top: 270px;
+    border: solid;
+    border-color: black;
+}
+
+.cj{
+    color: red;
+    position: absolute;
+    left: 120px;
+    top: 20px;
+    font-size: 20px;
+}
+
+.fl_uno{
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: -32px;
+    left: -5px;
+}
+
+.fl_dos{
+    position: absolute;
+    width: 90px; 
+    top: -10px;
+    left: 10px;
+}
